@@ -1,7 +1,7 @@
 titanic
 ==============================
 
-titanic ML project
+Kaggle competition: https://www.kaggle.com/competitions/titanic
 
 Project Organization
 ------------
